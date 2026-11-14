@@ -14,7 +14,7 @@ Theme: Bounce Back
         - [ ] More intense music for the time option
         - [ ] Just has a timer and stops you there
 
-| Infinite Mode	| Time trials |
-| Keep running and practicing	| A one minute timer that caps how long you play |
-| Keep going till you die	| Get as many metres as possible |
-| All the other features | 	All the other features |
+Infinite Mode	| Time trials
+Keep running and practicing	| A one minute timer that caps how long you play
+Keep going till you die	| Get as many metres as possible
+All the other features | 	All the other features
